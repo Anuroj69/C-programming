@@ -1,0 +1,22 @@
+1. WAP to calculate factorial.
+2. WAP to display number of digits in a number.
+3. WAP to convert upper to lower case & vice-versa.
+4. WAP to swap numbers.
+5. Sum of series: 
+    y = x + x^2 / 2! + x^4 / 4! + x^6 / 6! + .....n
+
+6. Print the following pattern: 
+    8
+    0
+    6 6 6
+    0
+    4 4 4 4 4
+    0
+    2 2 2 2 2 2 2
+
+
+    8 8 8 8 8
+    0 16 16 16
+    24 24 24
+    0 32
+    40
